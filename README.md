@@ -1,8 +1,10 @@
 # SURVEILLANCE DRONE FOR DETECTION AND CONTROL OF PEST INFECTED CROP PATCHES
 
 <h2>Image Gallery</h2>
+
 ![Quad1](img/20220327_175434.jpg)
 <br>
+
 ![Quad1](img/20220327_175434.jpg)
 <br>
 ![Quad1](img/20220327_175434.jpg)
