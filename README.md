@@ -1,4 +1,4 @@
-# SURVEILLANCE DRONE FOR DETECTION AND CONTROL OF PEST INFECTED CROP PATCHES
+# Surveillance Drone for Detection and Control of Pest Infected Crop Patches
 
 <h2>Image Gallery</h2>
 
